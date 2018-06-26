@@ -1,6 +1,8 @@
 # Changelog
 
-#### Version 1.3 (working)
+#### Version 1.4 (working)
+
+#### Version 1.3 (26-Jun-2018)
 * Remove kernel output from HDMI and UART ports
 * Disable console blanking for HDMI to make it easier to capture error messages
 * Support for reverting firmware

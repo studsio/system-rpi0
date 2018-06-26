@@ -4,7 +4,7 @@
 * Remove kernel output from HDMI and UART ports
 * Disable console blanking for HDMI to make it easier to capture error messages
 * Support for reverting firmware
-* Toolchains 0.12.1
+* Toolchains 1.0.0
 
 #### Version 1.2 (29-Nov-2017)
 * Remove Erlang/erlinit/Exilir depends

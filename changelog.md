@@ -1,6 +1,7 @@
 # Changelog
 
 #### Version 1.3 (working)
+* Remove kernel output from HDMI and UART ports
 * Toolchains 0.12.1
 
 #### Version 1.2 (29-Nov-2017)

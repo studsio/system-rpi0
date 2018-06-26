@@ -2,6 +2,8 @@
 
 #### Version 1.3 (working)
 * Remove kernel output from HDMI and UART ports
+* Disable console blanking for HDMI to make it easier to capture error messages
+* Support for reverting firmware
 * Toolchains 0.12.1
 
 #### Version 1.2 (29-Nov-2017)

@@ -1,6 +1,9 @@
 # Changelog
 
-#### Version 1.4 (working)
+#### Version 1.5 (working)
+
+#### Version 1.4 (19-Jul-2018)
+* Upstream `system` fixes
 
 #### Version 1.3 (26-Jun-2018)
 * Remove kernel output from HDMI and UART ports
@@ -15,4 +18,4 @@
 * Fork from nerves_system_rpi0
 
 #### Version 1.0
-*This version skipped for to keep version consistent across systems*
+_This version skipped for to keep version consistent across systems_
